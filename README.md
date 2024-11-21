@@ -4,7 +4,7 @@
         <img src="dallas.gif">
     </div>
     <h1 align="center">😊 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ❤</h1>
-    <h2>♚ Name : Yaman Al-Hajjar</h2>
+    <h2>♚ Name : Yaman</h2>
     <h2>♚ Age : 19</h2>
     <h2>♚ Gender : Male</h2>
     <h2>♚ Hobbys : Music , Games, Programming</h2>
